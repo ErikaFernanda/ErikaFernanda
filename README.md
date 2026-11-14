@@ -47,4 +47,4 @@ Tenho interesse em arquitetura de software, sistemas distribuídos, escalabilida
 ### 📫 Contato
 
 - GitHub: [@ErikaFernanda](https://github.com/ErikaFernanda)
-- LinkedIn: [Meu perfil profissional](https://www.linkedin.com/erika-fernanda/)
+- LinkedIn: [Meu perfil profissional](https://www.linkedin.com/in/erika-fernanda/)
